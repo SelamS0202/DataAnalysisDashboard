@@ -21,9 +21,13 @@
 - Number of residents by state
 - Trends for weekdays vs weekends
 
-### Visual Reports Section:
-- The dashboard presents visual reports answering the above questions.
+### Visual Reports Section:The dashboard presents visual reports answering the above questions:
+- Nursing home geographical distribution.
   ![Nursing Homes Distribution](https://github.com/SelamS0202/DataAnalysisDashboard/blob/main/2024NursingHomesDistribution.png)
-  ![Nursing homes distribution]([https://github.com/SelamS0202/DataAnalysisDashboard/blob/main/2024NursingHomesDistribution.png])
+- Nursing home characteristics by ownership type
+  ![Nursing Homes Characterstics](https://github.com/SelamS0202/DataAnalysisDashboard/blob/main/NursingHomesCharacterstics.png)
+- Trends for weekdays vs weekends
+  ![Residents Distribution Weekday vs Weeekend](https://github.com/SelamS0202/DataAnalysisDashboard/blob/main/ResidentsDistribution-Weekday_vs_Weekends.png).
+
 
 
