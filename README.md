@@ -3,8 +3,7 @@
 - Analyze trends to help organizations that outsource nursing staff make informed decisions.
 
 ### Dataset Used:
-- **Payroll-Based Journal (PBJ) Daily Nurse Staffing Dataset**  
-  (Data includes nursing staff details, staffing hours, and facility information)
+- **Payroll-Based Journal (PBJ) Daily Nurse Staffing Dataset**  (Data includes nursing staff details, staffing hours, and facility information)
 
 ### Technology Used:
 - Power BI
